@@ -73,6 +73,7 @@ ul{
     padding: 12px 50px;
     font-size: 20px;
     border-radius: 30px;
+    transition: .5s;
     border: 1px solid;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
@@ -132,6 +133,8 @@ ul{
     .box .container .body .text p {
         font-size: 15px;
         line-height: 1.8;
+        color: black;
+        font-weight: bold;
     }
 
     .box .container .body .text button {
